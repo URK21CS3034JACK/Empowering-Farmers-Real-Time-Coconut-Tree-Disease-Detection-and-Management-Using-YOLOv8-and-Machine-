@@ -1,0 +1,1 @@
+# Empowering-Farmers-Real-Time-Coconut-Tree-Disease-Detection-and-Management-Using-YOLOv8-and-Machine-
