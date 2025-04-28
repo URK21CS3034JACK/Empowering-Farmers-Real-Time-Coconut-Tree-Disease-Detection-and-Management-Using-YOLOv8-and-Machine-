@@ -9,7 +9,7 @@ import os
 import settings
 import helper
 # Initialize Google Gemini Pro
-genai.configure(api_key="AIzaSyAdl3L-bN1HmBKExX9--dp2FzHKWE9vNns")
+genai.configure(api_key="api key yours")
 # Create the model with the configuration
 generation_config = {
     "temperature": 1,
